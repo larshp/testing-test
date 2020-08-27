@@ -1,3 +1,3 @@
 REPORT ztest2.
 
-WRITE 'hello world'.
+WRITE 'hello wosdfrld'.
