@@ -1,3 +1,3 @@
 REPORT ztest2.
 
-sdfsdfsdf
+DATA  bar TYPE c LENGTH 1.
