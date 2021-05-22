@@ -1,3 +1,3 @@
 REPORT ztest2.
 
-WRITE 'hesdfllo'.
+DATA bar TYPE c LENGTH 1.
